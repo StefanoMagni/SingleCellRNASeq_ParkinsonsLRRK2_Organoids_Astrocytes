@@ -1,0 +1,6 @@
+CRC.core_TFs, Modified by Stefano to look only for 5 top genes
+NR2F1
+NR2F2
+POU3F2
+POU3F3
+SOX2
