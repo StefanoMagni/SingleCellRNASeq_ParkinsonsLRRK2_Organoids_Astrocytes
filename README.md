@@ -1,1 +1,3 @@
 # SingleCellRNASeq_ParkinsonsLRRK2_Organoids_Astrocytes
+
+This folder contains the scripts employed to perform the analysis of single cell RNA-Seq data for the manuscript: "Parkinson’s disease associated mutation LRRK2-G2019S alters astrocytes development and induces senescence in midbrain organoids". Link to the public version of this manuscript will be added here as soon as available. The codes collected here have been developed by Stefano Magni (stefano.magni@uni.lu). The authors of the manuscript are: Lisa Smits, Stefano Magni, Kamil Grzyb, Sylvie Delcambre, Philippe Luccarelli, Christian Jäger, Paul M.A. Antony, Enrico Glaab, Alexander Skupin, Silvia Bolognin and Jens C. Schwamborn. 
